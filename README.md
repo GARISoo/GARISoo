@@ -1,16 +1,18 @@
-### Hi there 👋
+### Haralds github 👋
 
-<!--
-**GARISoo/GARISoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Hello, I'm Haralds Treilons, swiftly becoming a full stack web developer.
+<br />
+Currently using frameworks without an issue like React and VueJs.
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to contact me for any reason - web development or sending over some memes, <br /> then here is my LinkedIn:
+<br />
+<a href="https://www.linkedin.com/in/htreilons/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+<br />
+ 
+ No bugs are left behind.... noone likes bugs.
+

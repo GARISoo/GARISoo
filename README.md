@@ -2,7 +2,7 @@
 
 ---
 
-Hello, I'm Haralds Treilons, swiftly becoming a full stack web developer.
+Hello, I'm Haralds Treilons, front-end developer.
 <br />
 Currently using frameworks without an issue like React and VueJs.
 <br />

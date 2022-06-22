@@ -3,7 +3,7 @@
 ---
 
 <h3>Hello, I'm Haralds Treilons, front-end developer.</h3>
-<h6>Creating responsive and interactive websites, leaving the client with good quality product and taking bugs along with me</h6>
+<b>Creating responsive and interactive websites, leaving the client with good quality product and taking bugs along with me</b>
 <h4>Technologies and tools</h4>
 
 [![My Skills](https://skills.thijs.gg/icons?i=react,vue,redux,js,ts,html,scss,nodejs,bootstrap)](https://skills.thijs.gg)

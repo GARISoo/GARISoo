@@ -10,7 +10,7 @@
 
 <h4>Slowly adapting</h4>
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,docker,native)](https://skills.thijs.gg)
 
 ---
 

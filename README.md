@@ -14,6 +14,8 @@
 
 ---
 
+<h4>Connect</h4>
+
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/htreilons/) 
 <br />
  

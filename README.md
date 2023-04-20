@@ -14,10 +14,7 @@
 
 ---
 
-<h4>If you want to contact me for any reason - web development or sending over some memes</h4>
-
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/htreilons/) 
 <br />
  
- <i>No bugs are left behind... noone likes bugs </i>
 

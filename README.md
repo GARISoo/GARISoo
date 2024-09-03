@@ -31,4 +31,5 @@
 <h4>GitHub Stats</h4>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GARISoo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GARISoo&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GARISoo&layout=compact&theme=radical)

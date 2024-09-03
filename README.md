@@ -31,4 +31,3 @@
 <h4>GitHub Stats</h4>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GARISoo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![Haralds' GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GARISoo&theme=radical)

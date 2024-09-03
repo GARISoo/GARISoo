@@ -17,10 +17,6 @@
 [![My Skills](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![My Skills](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![My Skills](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-<h4>Slowly Adapting</h4>
-
-[![My Skills](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 [![My Skills](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![My Skills](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
 
